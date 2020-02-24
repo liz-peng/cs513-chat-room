@@ -1,5 +1,5 @@
 # CS513-Chatroom
 
-Simple chatroom project for CS513 Computer Netwrok class
+A chatroom project for CS513 Computer Network class assignment
 
 The project use Node.js and WebSocket
